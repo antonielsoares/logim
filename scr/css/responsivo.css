@@ -1,12 +1,7 @@
 @media screen and (max-width: 360px) {
-    .tela-logim span{
-        width: 100%;
-        height: 22px;
-        background-color: aqua;
-        
-        font-size: 10px;
-        
-
+    .tela-logim > h3{
+        font-size: 11px;
+    }
     }
     
 }
