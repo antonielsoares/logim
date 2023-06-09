@@ -15,9 +15,7 @@ a{
     background-size: cover;
     display: flex;
     min-height: 100vh;
-    justify-content: center;
-    
-    
+    justify-content: center;   
 }
 .tela-logim{
     padding: 0 23px;
@@ -78,8 +76,8 @@ a{
 }
 .tela-logim span{
     display: flex;
-    font-size: 10px;
-    margin-left: 46px;
+    margin: 0 10px;
+    font-size: 13px;
     margin-top: 54px;
     color: rgb(139, 138, 138);
 }
