@@ -1,6 +1,7 @@
 @media screen and (max-width: 360px) {
     .tela-logim > h3{
         font-size: 6px;
+        color: brown;
     }
        
 }
